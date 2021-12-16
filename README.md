@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hridoy (@sumuhridoy2002).
-- 👋 This profile if my old one (@khokon9363).
+- 👋 This profile is my old one (@khokon9363).
 - 👀 I’m interested in problem solving.
 - 🌱 I’m currently working using Laravel & MERN stack as a php & JavaScript programmer.
 - 📫 How to reach me : sumuhridoy2002@gmail.com.
